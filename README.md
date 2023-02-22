@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/vaG6cg6OhyY7u/giphy.gif" align="center" style="width: 100%" />
 </div>
-### <div align="center">I'm Erkam, a iOS App developer 👨‍💻</div>  
+<div align="center">I'm Erkam, a iOS App developer 👨‍💻</div>  
 <br/>  
 <div align="center">  
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
