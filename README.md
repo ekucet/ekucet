@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Erkam, a iOS App developer 👨‍💻</div>  
+### <div align="center">I'm Erkam, a iOS App Developer 👨‍💻</div>  
   
 
 <br/>  
