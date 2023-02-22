@@ -15,11 +15,11 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>
-<br/>
-<br/> 
-<br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ekucet&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<br />
+</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ekucet/ekucet/blob/output/snake.svg" alt="Snake animation" />
+
+###
