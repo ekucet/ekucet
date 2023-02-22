@@ -18,8 +18,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ekucet&&style=flat-square" align="center" />
 </div>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ekucet/ekucet/blob/output/snake.svg" alt="Snake animation" />
-
-###
